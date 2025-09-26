@@ -1,2 +1,2 @@
 # DeepSeek-in-Production
-This GitHub repository contains the complete code for the DeepSeek in Production workshop from scratch.
+This GitHub repository contains all the resources for the DeepSeek in Production workshop conducted by Packt Publishing.
